@@ -1,0 +1,35 @@
+######################
+# Configuration file #
+######################
+[Covid19.Factors]
+k_factor                = 0.1
+r_factor                = 3.0
+maskEffectiveness       = 0.65
+prevalenceTesting       = 0.3
+prevalenceContactTracing = 0.3
+numberOfCases			= 14903267.0
+numberOfRecovery		= 8742077.0
+numberOfDeath			= 287221.0
+numberOfTests			= 205061072.0
+numberOfPopulation		= 331849210.0
+socialDistancing		= 0.03
+
+[Ebola.Factors]
+k_factor                = 0.1
+r_factor                = 3.0
+maskEffectiveness       = 0.65
+prevalenceTesting       = 0.3
+prevalenceContactTracing = 0.3
+numberOfCases			= 993.0
+numberOfRecovery		= 168.0
+numberOfDeath			= 227.0
+numberOfTests			= 700.0
+numberOfPopulation		= 1000.0
+socialDistancing		= 0.03
+
+[Location.Info]
+populationDensity       = 100000
+numberOfPopulation		= 331849210.0
+masksUsage              = 0.8
+travelRestriction       = True
+quarantineRestriction   = True
