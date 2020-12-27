@@ -1,9 +1,4 @@
 # INFO6205-Project
-# Team Number : 9
-## Team Members:
-Darasy Reth (Section 02) <br />
-Kshitij Verma (Section 06) <br />
-Vedant Jain (Section 06) <br />
 
 ## Project Description: 
 Our task is to simulate the spread of a virus such as SARS-CoV-2, the pathogen behind COVID-19, and Ebola. </br> 
