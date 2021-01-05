@@ -1,4 +1,4 @@
-# INFO6205-Project
+# Virus Simulation (Covid 19)
 
 ## Project Description: 
 Our task is to simulate the spread of a virus such as SARS-CoV-2, the pathogen behind COVID-19, and Ebola. </br> 
